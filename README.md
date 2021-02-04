@@ -6,6 +6,15 @@
 
 ## Instructions to run 
 
+## Quadrotor Frame
+![](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/Quadmodel.png)
+
+## Control and Trajectory Generation Architecture 
+
+![](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/control.png)
+
+1[](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/3dTraj.png)
+
 ```
 mkdir Quad_traj_Control
 cd ~/Quad_traj_Control
@@ -14,14 +23,25 @@ runsim.m
 ```
 
 ## Results 
-#### Linear Velocity 
-![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/VelLoadBCaseA.png)
 
-#### Drag forces Estimation 
-![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/ThetacTildeBCaseA.png)
+### Straight Line Trajecotories 
+#### Position 
+![](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/quadpositionB.png)
 
-#### Contact force acting on the payload 
-![](https://github.com/sandeshthapa/LCSS_2019_Concurrent_Learning/blob/main/Plots_LCSS/f1dTildeBCaseA.png)
+#### Velocity
+![](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/quadvelocityB.png)
+
+
+
+
+### Minimum Snap Trajecotories 
+
+#### Position 
+![](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/quadposition.png)
+
+
+#### Velocity
+![](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/quadvelocity.png))
 
 
 ## Reference 
