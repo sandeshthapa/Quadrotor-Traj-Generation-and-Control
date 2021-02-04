@@ -43,7 +43,7 @@ runsim.m
 
 
 ## Reference 
-####[1] D. Mellinger and V. Kumar, “Minimum snap trajectory generation and control for quadrotors,” in Robotics and Automation (ICRA), 2011 IEEE International
+#### [1] D. Mellinger and V. Kumar, “Minimum snap trajectory generation and control for quadrotors,” in Robotics and Automation (ICRA), 2011 IEEE International
 Conference on. IEEE, 2011, pp. 2520–2525.
 #####[2] D. Mellinger, N. Michael, and V. Kumar, “Trajectory generation and control for precise aggressive maneuvers with quadrotors,” The International Journal
 of Robotics Research, vol. 31, no. 5, pp. 664–674, 2012.
