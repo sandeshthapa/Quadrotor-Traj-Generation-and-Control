@@ -13,7 +13,7 @@ Details are in the Report folder.
 
 ![](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/control.png)
 
-1[](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/3dTraj.png)
+![](https://github.com/sandeshthapa/Qaudrotor-Traj-Generation-and-Control/blob/main/Report/images/3dTraj.png)
 
 ```
 mkdir Quad_traj_Control
