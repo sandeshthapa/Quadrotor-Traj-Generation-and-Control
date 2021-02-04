@@ -1,0 +1,20 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Sandesh_Thapa_DCS_FinalProject.aux
+The style file: IEEEtran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: mybib.bib
+You're missing a field name---line 72 of file mybib.bib
+ : 
+ : %  author = {Wikipedia},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+"}" immediately follows an entry type---line 73 of file mybib.bib
+ : %  title  = {Pairing function {@MISC
+ :                                     }},
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in van1997real
+
+Done.
+(There were 2 error messages)

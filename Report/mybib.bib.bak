@@ -1,0 +1,79 @@
+@article{mellinger2012trajectory,
+  title={Trajectory generation and control for precise aggressive maneuvers with quadrotors},
+  author={Mellinger, Daniel and Michael, Nathan and Kumar, Vijay},
+  journal={The International Journal of Robotics Research},
+  volume={31},
+  number={5},
+  pages={664--674},
+  year={2012},
+  publisher={SAGE Publications Sage UK: London, England}
+}, 
+
+@inproceedings{mellinger2011minimum,
+  title={Minimum snap trajectory generation and control for quadrotors},
+  author={Mellinger, Daniel and Kumar, Vijay},
+  booktitle={Robotics and Automation (ICRA), 2011 IEEE International Conference on},
+  pages={2520--2525},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{michael2010grasp,
+  title={The grasp multiple micro-uav testbed},
+  author={Michael, Nathan and Mellinger, Daniel and Lindsey, Quentin and Kumar, Vijay},
+  journal={IEEE Robotics \& Automation Magazine},
+  volume={17},
+  number={3},
+  pages={56--65},
+  year={2010},
+  publisher={IEEE}
+}
+
+@article{van1997real,
+  title={Real time trajectory generation for differentially flat systems},
+  author={Van Nieuwstadt, Michael J and Murray, Richard M},
+  year={1997},
+  publisher={California Institute of Technology}
+}
+
+@phdthesis{van1997trajectory,
+  title={Trajectory generation for nonlinear control systems},
+  author={Van Nieuwstadt, Michiel Jacques},
+  year={1997},
+  school={California Institute of Technology}
+}
+
+@electronic{AerialRobotics,
+  author        = "Vijay Kumar University of Pennsylvania",
+  title         = "Aerial Robotics",
+  url           = "https://www.coursera.org/learn/robotics-flight/",
+  year          = "2017"
+}
+
+@electronic{AerialRobotics1,
+  author        = "",
+  title         = "Aerial Robotics",
+  url           = "https://github.com/WenjinTao/Robotics--Coursera/tree/master/Robotics-Aerial_Robotics/",
+  year          = "2017"
+}
+
+@electronic{wiki1,
+  author        = "ASTEC",
+  title         = "",
+  url           = "http://wiki.asctec.de/display/AR/CAD+Models/master/",
+  year          = "2017"
+}
+
+
+
+%\RequirePackage{filecontents}
+%\begin{filecontents*}{\jobname.bib}
+%@MISC{wiki,
+%  author = {Wikipedia},
+%  title  = {Pairing function {@MISC}},
+%  month  = May,
+%  year   = {2016},
+%  url    = {https://en.wikipedia.org/wiki/Pairing_function/},
+%}
+%\end{filecontents*}
+
